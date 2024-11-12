@@ -11,7 +11,6 @@ The predictive model predicts whether a client is good or bad based on various f
 - [License](#license)
 - [Author](#author)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 
 ## Description
 The Credit Card Risk Predictive Analysis project involves building a predictive model to assess the risk of credit card clients. The model determines if a client is "good" or "bad" based on various features.
@@ -91,7 +90,7 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License.
 
 ## Author
-Ayush
+Yasira
 
 ## Technologies Used
 - Python
@@ -101,6 +100,3 @@ Ayush
 - Matplotlib
 - Jupyter Notebook
 
-## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
